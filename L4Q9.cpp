@@ -2,6 +2,9 @@
 #include <cstring>
 #include <string>
 using namespace std;
+//aluno: Vinícius Santos da Silva
+//turma: IF23
+//9) Construa um programa que leia duas strings do teclado. Imprima uma mensagem informando quantas vezes a segunda string lida está contida dentro da primeira:
 int main() {
   char s1[100];
   fgets(s1,100, stdin);
